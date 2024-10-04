@@ -1,2 +1,2 @@
 # Site-Prog-Web
-Site desenvolvido para a disciplina de Programação para Web da UFCG
+Site desenvolvido para a disciplina de Programação Web da UFCG
